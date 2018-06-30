@@ -1,1 +1,5 @@
-ALL THE CODES ARE WRITTEN IN C.
+ # Simple Puzzle Games
+ 
+ 1.Simple Logic
+ 
+ 2.User Friendly
